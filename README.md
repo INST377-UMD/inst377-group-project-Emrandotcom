@@ -1,7 +1,7 @@
 <h1>Weather Dashboard</h1>
 
 <h2>Description</h2>
-<p>The Weather Dashboard is a web application that fetches and displays weather data using the Open-Meteo API. It provides a user-friendly interface to view daily maximum temperatures for a specific location.</p>
+<p>Developed by Emran Abbamacha and Matthew Tiffany, the Weather Dashboard is a web application that fetches and displays weather data using the Open-Meteo API. It provides a user-friendly interface to view daily maximum temperatures for a specific location.</p>
 
 <h2>Target Browsers</h2>
 <p>The Weather Dashboard is designed to run on contemporary desktop browsers, including but not limited to Google Chrome, Mozilla Firefox, and Microsoft Edge. Mobile browsers are not the primary target for this application.</p>
